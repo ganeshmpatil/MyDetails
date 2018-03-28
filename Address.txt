@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+Address of user 1 
+Address of user04 is Goregaon
+=======
 Address of user 1
 Adress of user 2 Rajendra Rawat
+>>>>>>> 955934c4c3f6b3bc7679984af2d05fdb98c640d2
